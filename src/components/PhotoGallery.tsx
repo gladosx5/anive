@@ -24,7 +24,7 @@ function PhotoGallery() {
           <div className="relative">
             <div className="absolute -top-6 left-1/2 -translate-x-1/2 z-10">
               <div className="bg-gradient-to-r from-amber-400 to-rose-400 px-6 py-3 rounded-full shadow-lg">
-                <p className="text-white font-bold text-lg">Cadeau Spécial</p>
+                <p className="text-white font-bold text-lg">Cadeau d'anniversaire</p>
               </div>
             </div>
 
