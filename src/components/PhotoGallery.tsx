@@ -66,8 +66,16 @@ function PhotoGallery() {
 
               <div className="text-center space-y-4">
                 <p className="text-gray-700 text-lg">
+                  Une soirée entre mère et fille
+                </p>
+                <p className="text-gray-700 text-lg">
                   À utiliser à votre convenance pour un moment privilégié ensemble
                 </p>
+                <div className="pt-6 border-t-2 border-rose-200">
+                  <p className="text-2xl font-bold text-rose-600">
+                    De la part de Enora et Willem
+                  </p>
+                </div>
                 <div className="inline-block bg-gradient-to-r from-rose-500 to-pink-500 px-8 py-3 rounded-full">
                   <p className="text-white font-bold text-lg">
                     Valable à vie
