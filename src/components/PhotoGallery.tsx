@@ -61,15 +61,6 @@ function PhotoGallery() {
                     </div>
                     <p className="text-gray-600">Au restaurant de votre choix</p>
                   </div>
-
-                  <div className="pt-6 border-t-2 border-rose-200">
-                    <p className="text-2xl font-bold text-rose-600 mb-3">
-                      Enora & Sophie
-                    </p>
-                    <p className="text-lg text-gray-700 font-semibold">
-                      Mère et Fille
-                    </p>
-                  </div>
                 </div>
               </div>
 

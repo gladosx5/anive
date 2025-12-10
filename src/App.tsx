@@ -1,7 +1,6 @@
 import { useState } from 'react';
 import { Heart } from 'lucide-react';
 import PhotoGallery from './components/PhotoGallery';
-import MemoriesSection from './components/MemoriesSection';
 import Hero from './components/Hero';
 import FloatingElements from './components/FloatingElements';
 
@@ -15,8 +14,6 @@ function App() {
       <Hero onCakeClick={() => setShowConfetti(true)} />
 
       <PhotoGallery />
-
-      <MemoriesSection />
 
       <footer className="bg-white/70 backdrop-blur-sm py-8 text-center">
         <div className="flex items-center justify-center gap-2 text-rose-600">
